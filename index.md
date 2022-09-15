@@ -10,3 +10,8 @@
 
 ![Alt text](https://outdoorgearweb.com/wp-content/uploads/2022/05/Potato-cepelinai1-500x500.jpg?ezimgfmt=ng:webp/ngcb1)
 
+## Recette détaillée
+
+| Pour les boulettes | #1 | #2 |
+| :---: | :---: | :---: |
+| Pour la sauce | 301 | 283 |
