@@ -12,6 +12,17 @@
 
 ## Recette détaillée
 
-| Pour les boulettes | #1 | #2 |
-| :---: | :---: | :---: |
-| Pour la sauce | 301 | 283 |
+| **-Pour les boulettes:** | Quantité  | 
+| :---: | :---: |
+| Pommes de terre | 3kg |
+| Bœuf haché| 500g |
+| Sel | 4 c. à soupe |
+| Oignon | 1 |
+
+| **-Pour la sauce:** | Quantité  | 
+| :---: | :---: |
+| Lardons | 3kg |
+| Crème liquide | 500g |
+| Huile végétale | 4 c. à soupe |
+| Oignon | 1 |
+| Sel, pauvre | 1 |
